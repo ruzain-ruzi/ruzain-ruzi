@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I,m a Full Stack Web Developer<br>🌐 I can build a full fledged website<br>🛸 Language Specialized: Python<br>🚀 Front-end Skills: HTML, CSS, JavaScript, Bootstrap, Angular<br>📑 Back-end Skills: Django, MySQL<br>🏗️ Projects: E-commerce Website, Baby Vaccination Website, College Website
+👨‍💻 I,m a Full Stack Web Developer<br>🌐 I can build a full fledged website<br>🛸 Language Specialized: Python<br>🚀 Front-end Skills: HTML, CSS, JavaScript<br>📑 Back-end Skills: MySQL, Supabase<br>🔭Frameworks: Bootstrap, Angular, Django<br>🏗️ Projects: E-commerce Website, Baby Vaccination Website, College Website
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ruzain-ruzi&icon=0&color=9)](https://visitcount.itsvg.in)
