@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋,
+Hey 👋,<br>
 👨‍💻 I'm a Full Stack Web Developer<br>🌐 I can build a full fledged website<br>🛸 Language Specialized: Python<br>🚀 Front-end Skills: HTML, CSS, JavaScript, TypeScript<br>📑 Back-end Skills: MySQL, Supabase<br>🔭Frameworks: Bootstrap, Angular, Django<br>🏗️ Projects: E-commerce Website, Baby Vaccination Website, College Website
 
 
