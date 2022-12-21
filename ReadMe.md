@@ -2,7 +2,7 @@
 👨‍💻 I,m a Full Stack Web Developer<br>🌐 I can build a full fledged website<br>🛸 Language Specialized: Python<br>🚀 Front-end Skills: HTML, CSS, JavaScript, TypeScript<br>📑 Back-end Skills: MySQL, Supabase<br>🔭Frameworks: Bootstrap, Angular, Django<br>🏗️ Projects: E-commerce Website, Baby Vaccination Website, College Website
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ruzain_ruzi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruzain-abdurahman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ruzain_ruzi) 
 
 # 💻 Tech Stack:
